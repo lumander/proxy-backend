@@ -97,7 +97,7 @@ spec:
    - Create the following resources in your project
 
   ```
-  kind: VirtualService
+kind: VirtualService
 apiVersion: networking.istio.io/v1alpha3
 metadata:
   name: techgym-frontend-vsvc
